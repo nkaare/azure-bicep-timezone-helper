@@ -1,0 +1,1402 @@
+{
+  "Africa/Abidjan": {
+    "Windows": "Greenwich Standard Time",
+    "IANA": "Africa/Abidjan"
+  },
+  "Africa/Algiers": {
+    "Windows": "Romance Standard Time",
+    "IANA": "Africa/Algiers"
+  },
+  "Africa/Bissau": {
+    "Windows": "Greenwich Standard Time",
+    "IANA": "Africa/Bissau"
+  },
+  "Africa/Cairo": {
+    "Windows": "Egypt Standard Time",
+    "IANA": "Africa/Cairo"
+  },
+  "Africa/Casablanca": {
+    "Windows": "Morocco Standard Time",
+    "IANA": "Africa/Casablanca"
+  },
+  "Africa/Ceuta": {
+    "Windows": "Romance Standard Time",
+    "IANA": "Africa/Ceuta"
+  },
+  "Africa/El_Aaiun": {
+    "Windows": "Morocco Standard Time",
+    "IANA": "Africa/El_Aaiun"
+  },
+  "Africa/Johannesburg": {
+    "Windows": "South Africa Standard Time",
+    "IANA": "Africa/Johannesburg"
+  },
+  "Africa/Juba": {
+    "Windows": "E. Africa Standard Time",
+    "IANA": "Africa/Juba"
+  },
+  "Africa/Khartoum": {
+    "Windows": "Sudan Standard Time",
+    "IANA": "Africa/Khartoum"
+  },
+  "Africa/Lagos": {
+    "Windows": "W. Central Africa Standard Time",
+    "IANA": "Africa/Lagos"
+  },
+  "Africa/Maputo": {
+    "Windows": "South Africa Standard Time",
+    "IANA": "Africa/Maputo"
+  },
+  "Africa/Monrovia": {
+    "Windows": "Greenwich Standard Time",
+    "IANA": "Africa/Monrovia"
+  },
+  "Africa/Nairobi": {
+    "Windows": "E. Africa Standard Time",
+    "IANA": "Africa/Nairobi"
+  },
+  "Africa/Ndjamena": {
+    "Windows": "W. Central Africa Standard Time",
+    "IANA": "Africa/Ndjamena"
+  },
+  "Africa/Sao_Tome": {
+    "Windows": "Greenwich Standard Time",
+    "IANA": "Africa/Sao_Tome"
+  },
+  "Africa/Tripoli": {
+    "Windows": "Libya Standard Time",
+    "IANA": "Africa/Tripoli"
+  },
+  "Africa/Tunis": {
+    "Windows": "W. Central Africa Standard Time",
+    "IANA": "Africa/Tunis"
+  },
+  "Africa/Windhoek": {
+    "Windows": "Namibia Standard Time",
+    "IANA": "Africa/Windhoek"
+  },
+  "America/Adak": {
+    "Windows": "Hawaiian Standard Time",
+    "IANA": "America/Adak"
+  },
+  "America/Anchorage": {
+    "Windows": "Alaskan Standard Time",
+    "IANA": "America/Anchorage"
+  },
+  "America/Araguaina": {
+    "Windows": "E. South America Standard Time",
+    "IANA": "America/Araguaina"
+  },
+  "America/Argentina/Buenos_Aires": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Buenos_Aires"
+  },
+  "America/Argentina/Catamarca": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Catamarca"
+  },
+  "America/Argentina/Cordoba": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Cordoba"
+  },
+  "America/Argentina/Jujuy": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Jujuy"
+  },
+  "America/Argentina/La_Rioja": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/La_Rioja"
+  },
+  "America/Argentina/Mendoza": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Mendoza"
+  },
+  "America/Argentina/Rio_Gallegos": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Rio_Gallegos"
+  },
+  "America/Argentina/Salta": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Salta"
+  },
+  "America/Argentina/San_Juan": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/San_Juan"
+  },
+  "America/Argentina/San_Luis": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/San_Luis"
+  },
+  "America/Argentina/Tucuman": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Tucuman"
+  },
+  "America/Argentina/Ushuaia": {
+    "Windows": "Argentina Standard Time",
+    "IANA": "America/Argentina/Ushuaia"
+  },
+  "America/Asuncion": {
+    "Windows": "Paraguay Standard Time",
+    "IANA": "America/Asuncion"
+  },
+  "America/Bahia": {
+    "Windows": "Bahia Standard Time",
+    "IANA": "America/Bahia"
+  },
+  "America/Bahia_Banderas": {
+    "Windows": "Central Standard Time (Mexico)",
+    "IANA": "America/Bahia_Banderas"
+  },
+  "America/Barbados": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Barbados"
+  },
+  "America/Belem": {
+    "Windows": "SA Eastern Standard Time",
+    "IANA": "America/Belem"
+  },
+  "America/Belize": {
+    "Windows": "Central America Standard Time",
+    "IANA": "America/Belize"
+  },
+  "America/Boa_Vista": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Boa_Vista"
+  },
+  "America/Bogota": {
+    "Windows": "SA Pacific Standard Time",
+    "IANA": "America/Bogota"
+  },
+  "America/Boise": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "America/Boise"
+  },
+  "America/Cambridge_Bay": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "America/Cambridge_Bay"
+  },
+  "America/Campo_Grande": {
+    "Windows": "Central Brazilian Standard Time",
+    "IANA": "America/Campo_Grande"
+  },
+  "America/Cancun": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/Cancun"
+  },
+  "America/Caracas": {
+    "Windows": "Venezuela Standard Time",
+    "IANA": "America/Caracas"
+  },
+  "America/Cayenne": {
+    "Windows": "SA Eastern Standard Time",
+    "IANA": "America/Cayenne"
+  },
+  "America/Chicago": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/Chicago"
+  },
+  "America/Chihuahua": {
+    "Windows": "Mountain Standard Time (Mexico)",
+    "IANA": "America/Chihuahua"
+  },
+  "America/Ciudad_Juarez": {
+    "Windows": "Mountain Standard Time (Mexico)",
+    "IANA": "America/Ciudad_Juarez"
+  },
+  "America/Costa_Rica": {
+    "Windows": "Central America Standard Time",
+    "IANA": "America/Costa_Rica"
+  },
+  "America/Cuiaba": {
+    "Windows": "Central Brazilian Standard Time",
+    "IANA": "America/Cuiaba"
+  },
+  "America/Danmarkshavn": {
+    "Windows": "Greenwich Standard Time",
+    "IANA": "America/Danmarkshavn"
+  },
+  "America/Dawson": {
+    "Windows": "Pacific Standard Time",
+    "IANA": "America/Dawson"
+  },
+  "America/Dawson_Creek": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "America/Dawson_Creek"
+  },
+  "America/Denver": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "America/Denver"
+  },
+  "America/Detroit": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/Detroit"
+  },
+  "America/Edmonton": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "America/Edmonton"
+  },
+  "America/Eirunepe": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Eirunepe"
+  },
+  "America/El_Salvador": {
+    "Windows": "Central Standard Time (Mexico)",
+    "IANA": "America/El_Salvador"
+  },
+  "America/Fort_Nelson": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "America/Fort_Nelson"
+  },
+  "America/Fortaleza": {
+    "Windows": "SA Eastern Standard Time",
+    "IANA": "America/Fortaleza"
+  },
+  "America/Glace_Bay": {
+    "Windows": "Atlantic Standard Time",
+    "IANA": "America/Glace_Bay"
+  },
+  "America/Goose_Bay": {
+    "Windows": "Atlantic Standard Time",
+    "IANA": "America/Goose_Bay"
+  },
+  "America/Grand_Turk": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/Grand_Turk"
+  },
+  "America/Guatemala": {
+    "Windows": "Central America Standard Time",
+    "IANA": "America/Guatemala"
+  },
+  "America/Guayaquil": {
+    "Windows": "SA Pacific Standard Time",
+    "IANA": "America/Guayaquil"
+  },
+  "America/Guyana": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Guyana"
+  },
+  "America/Halifax": {
+    "Windows": "Atlantic Standard Time",
+    "IANA": "America/Halifax"
+  },
+  "America/Havana": {
+    "Windows": "Cuba Standard Time",
+    "IANA": "America/Havana"
+  },
+  "America/Hermosillo": {
+    "Windows": "US Mountain Standard Time",
+    "IANA": "America/Hermosillo"
+  },
+  "America/Indiana/Indianapolis": {
+    "Windows": "US Eastern Standard Time",
+    "IANA": "America/Indiana/Indianapolis"
+  },
+  "America/Indiana/Knox": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/Indiana/Knox"
+  },
+  "America/Indiana/Marengo": {
+    "Windows": "US Eastern Standard Time",
+    "IANA": "America/Indiana/Marengo"
+  },
+  "America/Indiana/Petersburg": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/Indiana/Petersburg"
+  },
+  "America/Indiana/Tell_City": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/Indiana/Tell_City"
+  },
+  "America/Indiana/Vevay": {
+    "Windows": "US Eastern Standard Time",
+    "IANA": "America/Indiana/Vevay"
+  },
+  "America/Indiana/Vincennes": {
+    "Windows": "US Eastern Standard Time",
+    "IANA": "America/Indiana/Vincennes"
+  },
+  "America/Indiana/Winamac": {
+    "Windows": "US Eastern Standard Time",
+    "IANA": "America/Indiana/Winamac"
+  },
+  "America/Inuvik": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "America/Inuvik"
+  },
+  "America/Iqaluit": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/Iqaluit"
+  },
+  "America/Jamaica": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Jamaica"
+  },
+  "America/Juneau": {
+    "Windows": "Alaskan Standard Time",
+    "IANA": "America/Juneau"
+  },
+  "America/Kentucky/Louisville": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/Kentucky/Louisville"
+  },
+  "America/Kentucky/Monticello": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/Kentucky/Monticello"
+  },
+  "America/La_Paz": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/La_Paz"
+  },
+  "America/Lima": {
+    "Windows": "SA Pacific Standard Time",
+    "IANA": "America/Lima"
+  },
+  "America/Los_Angeles": {
+    "Windows": "Pacific Standard Time",
+    "IANA": "America/Los_Angeles"
+  },
+  "America/Maceio": {
+    "Windows": "SA Eastern Standard Time",
+    "IANA": "America/Maceio"
+  },
+  "America/Managua": {
+    "Windows": "Central America Standard Time",
+    "IANA": "America/Managua"
+  },
+  "America/Manaus": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Manaus"
+  },
+  "America/Martinique": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Martinique"
+  },
+  "America/Matamoros": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/Matamoros"
+  },
+  "America/Mazatlan": {
+    "Windows": "Mountain Standard Time (Mexico)",
+    "IANA": "America/Mazatlan"
+  },
+  "America/Menominee": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/Menominee"
+  },
+  "America/Merida": {
+    "Windows": "Central Standard Time (Mexico)",
+    "IANA": "America/Merida"
+  },
+  "America/Metlakatla": {
+    "Windows": "Alaskan Standard Time",
+    "IANA": "America/Metlakatla"
+  },
+  "America/Mexico_City": {
+    "Windows": "Central Standard Time (Mexico)",
+    "IANA": "America/Mexico_City"
+  },
+  "America/Miquelon": {
+    "Windows": "Saint Pierre Standard Time",
+    "IANA": "America/Miquelon"
+  },
+  "America/Moncton": {
+    "Windows": "Atlantic Standard Time",
+    "IANA": "America/Moncton"
+  },
+  "America/Monterrey": {
+    "Windows": "Central Standard Time (Mexico)",
+    "IANA": "America/Monterrey"
+  },
+  "America/Montevideo": {
+    "Windows": "Montevideo Standard Time",
+    "IANA": "America/Montevideo"
+  },
+  "America/New_York": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/New_York"
+  },
+  "America/Nome": {
+    "Windows": "Alaskan Standard Time",
+    "IANA": "America/Nome"
+  },
+  "America/Noronha": {
+    "Windows": "UTC-02",
+    "IANA": "America/Noronha"
+  },
+  "America/North_Dakota/Beulah": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/North_Dakota/Beulah"
+  },
+  "America/North_Dakota/Center": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/North_Dakota/Center"
+  },
+  "America/North_Dakota/New_Salem": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/North_Dakota/New_Salem"
+  },
+  "America/Nuuk": {
+    "Windows": "Greenland Standard Time",
+    "IANA": "America/Nuuk"
+  },
+  "America/Ojinaga": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "America/Ojinaga"
+  },
+  "America/Panama": {
+    "Windows": "SA Pacific Standard Time",
+    "IANA": "America/Panama"
+  },
+  "America/Paramaribo": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Paramaribo"
+  },
+  "America/Phoenix": {
+    "Windows": "US Mountain Standard Time",
+    "IANA": "America/Phoenix"
+  },
+  "America/Port-au-Prince": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Port-au-Prince"
+  },
+  "America/Porto_Velho": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Porto_Velho"
+  },
+  "America/Puerto_Rico": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Puerto_Rico"
+  },
+  "America/Punta_Arenas": {
+    "Windows": "Pacific SA Standard Time",
+    "IANA": "America/Punta_Arenas"
+  },
+  "America/Rankin_Inlet": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/Rankin_Inlet"
+  },
+  "America/Recife": {
+    "Windows": "SA Eastern Standard Time",
+    "IANA": "America/Recife"
+  },
+  "America/Regina": {
+    "Windows": "Canada Central Standard Time",
+    "IANA": "America/Regina"
+  },
+  "America/Resolute": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/Resolute"
+  },
+  "America/Rio_Branco": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Rio_Branco"
+  },
+  "America/Santarem": {
+    "Windows": "SA Eastern Standard Time",
+    "IANA": "America/Santarem"
+  },
+  "America/Santiago": {
+    "Windows": "Pacific SA Standard Time",
+    "IANA": "America/Santiago"
+  },
+  "America/Santo_Domingo": {
+    "Windows": "SA Western Standard Time",
+    "IANA": "America/Santo_Domingo"
+  },
+  "America/Sao_Paulo": {
+    "Windows": "E. South America Standard Time",
+    "IANA": "America/Sao_Paulo"
+  },
+  "America/Scoresbysund": {
+    "Windows": "Azores Standard Time",
+    "IANA": "America/Scoresbysund"
+  },
+  "America/Sitka": {
+    "Windows": "Alaskan Standard Time",
+    "IANA": "America/Sitka"
+  },
+  "America/St_Johns": {
+    "Windows": "Newfoundland Standard Time",
+    "IANA": "America/St_Johns"
+  },
+  "America/Swift_Current": {
+    "Windows": "Canada Central Standard Time",
+    "IANA": "America/Swift_Current"
+  },
+  "America/Tegucigalpa": {
+    "Windows": "Central America Standard Time",
+    "IANA": "America/Tegucigalpa"
+  },
+  "America/Thule": {
+    "Windows": "Atlantic Standard Time",
+    "IANA": "America/Thule"
+  },
+  "America/Tijuana": {
+    "Windows": "Pacific Standard Time (Mexico)",
+    "IANA": "America/Tijuana"
+  },
+  "America/Toronto": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "America/Toronto"
+  },
+  "America/Vancouver": {
+    "Windows": "Pacific Standard Time",
+    "IANA": "America/Vancouver"
+  },
+  "America/Whitehorse": {
+    "Windows": "Pacific Standard Time",
+    "IANA": "America/Whitehorse"
+  },
+  "America/Winnipeg": {
+    "Windows": "Central Standard Time",
+    "IANA": "America/Winnipeg"
+  },
+  "America/Yakutat": {
+    "Windows": "Alaskan Standard Time",
+    "IANA": "America/Yakutat"
+  },
+  "Antarctica/Casey": {
+    "Windows": "UTC+11",
+    "IANA": "Antarctica/Casey"
+  },
+  "Antarctica/Davis": {
+    "Windows": "UTC+07",
+    "IANA": "Antarctica/Davis"
+  },
+  "Antarctica/Macquarie": {
+    "Windows": "UTC+11",
+    "IANA": "Antarctica/Macquarie"
+  },
+  "Antarctica/Mawson": {
+    "Windows": "UTC+05",
+    "IANA": "Antarctica/Mawson"
+  },
+  "Antarctica/Palmer": {
+    "Windows": "Pacific SA Standard Time",
+    "IANA": "Antarctica/Palmer"
+  },
+  "Antarctica/Rothera": {
+    "Windows": "UTC-03",
+    "IANA": "Antarctica/Rothera"
+  },
+  "Antarctica/Troll": {
+    "Windows": "UTC",
+    "IANA": "Antarctica/Troll"
+  },
+  "Asia/Almaty": {
+    "Windows": "Central Asia Standard Time",
+    "IANA": "Asia/Almaty"
+  },
+  "Asia/Amman": {
+    "Windows": "Jordan Standard Time",
+    "IANA": "Asia/Amman"
+  },
+  "Asia/Anadyr": {
+    "Windows": "Magadan Standard Time",
+    "IANA": "Asia/Anadyr"
+  },
+  "Asia/Aqtau": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Asia/Aqtau"
+  },
+  "Asia/Aqtobe": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Asia/Aqtobe"
+  },
+  "Asia/Ashgabat": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Asia/Ashgabat"
+  },
+  "Asia/Atyrau": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Asia/Atyrau"
+  },
+  "Asia/Baghdad": {
+    "Windows": "Arabic Standard Time",
+    "IANA": "Asia/Baghdad"
+  },
+  "Asia/Baku": {
+    "Windows": "Azerbaijan Standard Time",
+    "IANA": "Asia/Baku"
+  },
+  "Asia/Bangkok": {
+    "Windows": "SE Asia Standard Time",
+    "IANA": "Asia/Bangkok"
+  },
+  "Asia/Barnaul": {
+    "Windows": "Russia Time Zone 7",
+    "IANA": "Asia/Barnaul"
+  },
+  "Asia/Beirut": {
+    "Windows": "Middle East Standard Time",
+    "IANA": "Asia/Beirut"
+  },
+  "Asia/Bishkek": {
+    "Windows": "Central Asia Standard Time",
+    "IANA": "Asia/Bishkek"
+  },
+  "Asia/Chita": {
+    "Windows": "Transbaikal Standard Time",
+    "IANA": "Asia/Chita"
+  },
+  "Asia/Choibalsan": {
+    "Windows": "Ulaanbaatar Standard Time",
+    "IANA": "Asia/Choibalsan"
+  },
+  "Asia/Colombo": {
+    "Windows": "Sri Lanka Standard Time",
+    "IANA": "Asia/Colombo"
+  },
+  "Asia/Damascus": {
+    "Windows": "Syria Standard Time",
+    "IANA": "Asia/Damascus"
+  },
+  "Asia/Dhaka": {
+    "Windows": "Bangladesh Standard Time",
+    "IANA": "Asia/Dhaka"
+  },
+  "Asia/Dili": {
+    "Windows": "SE Asia Standard Time",
+    "IANA": "Asia/Dili"
+  },
+  "Asia/Dubai": {
+    "Windows": "Arabian Standard Time",
+    "IANA": "Asia/Dubai"
+  },
+  "Asia/Dushanbe": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Asia/Dushanbe"
+  },
+  "Asia/Famagusta": {
+    "Windows": "GTB Standard Time",
+    "IANA": "Asia/Famagusta"
+  },
+  "Asia/Gaza": {
+    "Windows": "West Bank Standard Time",
+    "IANA": "Asia/Gaza"
+  },
+  "Asia/Hebron": {
+    "Windows": "West Bank Standard Time",
+    "IANA": "Asia/Hebron"
+  },
+  "Asia/Ho_Chi_Minh": {
+    "Windows": "SE Asia Standard Time",
+    "IANA": "Asia/Ho_Chi_Minh"
+  },
+  "Asia/Hong_Kong": {
+    "Windows": "China Standard Time",
+    "IANA": "Asia/Hong_Kong"
+  },
+  "Asia/Hovd": {
+    "Windows": "North Asia Standard Time",
+    "IANA": "Asia/Hovd"
+  },
+  "Asia/Irkutsk": {
+    "Windows": "North Asia East Standard Time",
+    "IANA": "Asia/Irkutsk"
+  },
+  "Asia/Jakarta": {
+    "Windows": "SE Asia Standard Time",
+    "IANA": "Asia/Jakarta"
+  },
+  "Asia/Jayapura": {
+    "Windows": "SE Asia Standard Time",
+    "IANA": "Asia/Jayapura"
+  },
+  "Asia/Jerusalem": {
+    "Windows": "Israel Standard Time",
+    "IANA": "Asia/Jerusalem"
+  },
+  "Asia/Kabul": {
+    "Windows": "Afghanistan Standard Time",
+    "IANA": "Asia/Kabul"
+  },
+  "Asia/Kamchatka": {
+    "Windows": "Kamchatka Standard Time",
+    "IANA": "Asia/Kamchatka"
+  },
+  "Asia/Karachi": {
+    "Windows": "Pakistan Standard Time",
+    "IANA": "Asia/Karachi"
+  },
+  "Asia/Kathmandu": {
+    "Windows": "Nepal Standard Time",
+    "IANA": "Asia/Kathmandu"
+  },
+  "Asia/Khandyga": {
+    "Windows": "Yakutsk Standard Time",
+    "IANA": "Asia/Khandyga"
+  },
+  "Asia/Kolkata": {
+    "Windows": "India Standard Time",
+    "IANA": "Asia/Kolkata"
+  },
+  "Asia/Krasnoyarsk": {
+    "Windows": "North Asia Standard Time",
+    "IANA": "Asia/Krasnoyarsk"
+  },
+  "Asia/Kuching": {
+    "Windows": "Singapore Standard Time",
+    "IANA": "Asia/Kuching"
+  },
+  "Asia/Macau": {
+    "Windows": "China Standard Time",
+    "IANA": "Asia/Macau"
+  },
+  "Asia/Magadan": {
+    "Windows": "Magadan Standard Time",
+    "IANA": "Asia/Magadan"
+  },
+  "Asia/Makassar": {
+    "Windows": "Singapore Standard Time",
+    "IANA": "Asia/Makassar"
+  },
+  "Asia/Manila": {
+    "Windows": "Singapore Standard Time",
+    "IANA": "Asia/Manila"
+  },
+  "Asia/Nicosia": {
+    "Windows": "GTB Standard Time",
+    "IANA": "Asia/Nicosia"
+  },
+  "Asia/Novokuznetsk": {
+    "Windows": "North Asia Standard Time",
+    "IANA": "Asia/Novokuznetsk"
+  },
+  "Asia/Novosibirsk": {
+    "Windows": "N. Central Asia Standard Time",
+    "IANA": "Asia/Novosibirsk"
+  },
+  "Asia/Omsk": {
+    "Windows": "Omsk Standard Time",
+    "IANA": "Asia/Omsk"
+  },
+  "Asia/Oral": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Asia/Oral"
+  },
+  "Asia/Pontianak": {
+    "Windows": "SE Asia Standard Time",
+    "IANA": "Asia/Pontianak"
+  },
+  "Asia/Pyongyang": {
+    "Windows": "Korea Standard Time",
+    "IANA": "Asia/Pyongyang"
+  },
+  "Asia/Qatar": {
+    "Windows": "Arab Standard Time",
+    "IANA": "Asia/Qatar"
+  },
+  "Asia/Qostanay": {
+    "Windows": "Central Asia Standard Time",
+    "IANA": "Asia/Qostanay"
+  },
+  "Asia/Qyzylorda": {
+    "Windows": "Central Asia Standard Time",
+    "IANA": "Asia/Qyzylorda"
+  },
+  "Asia/Riyadh": {
+    "Windows": "Arab Standard Time",
+    "IANA": "Asia/Riyadh"
+  },
+  "Asia/Sakhalin": {
+    "Windows": "Sakhalin Standard Time",
+    "IANA": "Asia/Sakhalin"
+  },
+  "Asia/Samarkand": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Asia/Samarkand"
+  },
+  "Asia/Seoul": {
+    "Windows": "Korea Standard Time",
+    "IANA": "Asia/Seoul"
+  },
+  "Asia/Shanghai": {
+    "Windows": "China Standard Time",
+    "IANA": "Asia/Shanghai"
+  },
+  "Asia/Singapore": {
+    "Windows": "Singapore Standard Time",
+    "IANA": "Asia/Singapore"
+  },
+  "Asia/Srednekolymsk": {
+    "Windows": "Russia Time Zone 10",
+    "IANA": "Asia/Srednekolymsk"
+  },
+  "Asia/Taipei": {
+    "Windows": "Taipei Standard Time",
+    "IANA": "Asia/Taipei"
+  },
+  "Asia/Tashkent": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Asia/Tashkent"
+  },
+  "Asia/Tbilisi": {
+    "Windows": "Georgian Standard Time",
+    "IANA": "Asia/Tbilisi"
+  },
+  "Asia/Tehran": {
+    "Windows": "Iran Standard Time",
+    "IANA": "Asia/Tehran"
+  },
+  "Asia/Thimphu": {
+    "Windows": "Bangladesh Standard Time",
+    "IANA": "Asia/Thimphu"
+  },
+  "Asia/Tokyo": {
+    "Windows": "Tokyo Standard Time",
+    "IANA": "Asia/Tokyo"
+  },
+  "Asia/Tomsk": {
+    "Windows": "Tomsk Standard Time",
+    "IANA": "Asia/Tomsk"
+  },
+  "Asia/Ulaanbaatar": {
+    "Windows": "Ulaanbaatar Standard Time",
+    "IANA": "Asia/Ulaanbaatar"
+  },
+  "Asia/Urumqi": {
+    "Windows": "Central Asia Standard Time",
+    "IANA": "Asia/Urumqi"
+  },
+  "Asia/Ust-Nera": {
+    "Windows": "Vladivostok Standard Time",
+    "IANA": "Asia/Ust-Nera"
+  },
+  "Asia/Vladivostok": {
+    "Windows": "Vladivostok Standard Time",
+    "IANA": "Asia/Vladivostok"
+  },
+  "Asia/Yakutsk": {
+    "Windows": "Yakutsk Standard Time",
+    "IANA": "Asia/Yakutsk"
+  },
+  "Asia/Yangon": {
+    "Windows": "Myanmar Standard Time",
+    "IANA": "Asia/Yangon"
+  },
+  "Asia/Yekaterinburg": {
+    "Windows": "Ekaterinburg Standard Time",
+    "IANA": "Asia/Yekaterinburg"
+  },
+  "Asia/Yerevan": {
+    "Windows": "Caucasus Standard Time",
+    "IANA": "Asia/Yerevan"
+  },
+  "Atlantic/Azores": {
+    "Windows": "Azores Standard Time",
+    "IANA": "Atlantic/Azores"
+  },
+  "Atlantic/Bermuda": {
+    "Windows": "Atlantic Standard Time",
+    "IANA": "Atlantic/Bermuda"
+  },
+  "Atlantic/Canary": {
+    "Windows": "GMT Standard Time",
+    "IANA": "Atlantic/Canary"
+  },
+  "Atlantic/Cape_Verde": {
+    "Windows": "Cape Verde Standard Time",
+    "IANA": "Atlantic/Cape_Verde"
+  },
+  "Atlantic/Faroe": {
+    "Windows": "GMT Standard Time",
+    "IANA": "Atlantic/Faroe"
+  },
+  "Atlantic/Madeira": {
+    "Windows": "GMT Standard Time",
+    "IANA": "Atlantic/Madeira"
+  },
+  "Atlantic/South_Georgia": {
+    "Windows": "UTC-02",
+    "IANA": "Atlantic/South_Georgia"
+  },
+  "Atlantic/Stanley": {
+    "Windows": "SA Eastern Standard Time",
+    "IANA": "Atlantic/Stanley"
+  },
+  "Australia/Adelaide": {
+    "Windows": "Cen. Australia Standard Time",
+    "IANA": "Australia/Adelaide"
+  },
+  "Australia/Brisbane": {
+    "Windows": "E. Australia Standard Time",
+    "IANA": "Australia/Brisbane"
+  },
+  "Australia/Broken_Hill": {
+    "Windows": "Cen. Australia Standard Time",
+    "IANA": "Australia/Broken_Hill"
+  },
+  "Australia/Darwin": {
+    "Windows": "AUS Central Standard Time",
+    "IANA": "Australia/Darwin"
+  },
+  "Australia/Eucla": {
+    "Windows": "Aus Central W. Standard Time",
+    "IANA": "Australia/Eucla"
+  },
+  "Australia/Hobart": {
+    "Windows": "Tasmania Standard Time",
+    "IANA": "Australia/Hobart"
+  },
+  "Australia/Lindeman": {
+    "Windows": "E. Australia Standard Time",
+    "IANA": "Australia/Lindeman"
+  },
+  "Australia/Lord_Howe": {
+    "Windows": "Lord Howe Standard Time",
+    "IANA": "Australia/Lord_Howe"
+  },
+  "Australia/Melbourne": {
+    "Windows": "AUS Eastern Standard Time",
+    "IANA": "Australia/Melbourne"
+  },
+  "Australia/Perth": {
+    "Windows": "W. Australia Standard Time",
+    "IANA": "Australia/Perth"
+  },
+  "Australia/Sydney": {
+    "Windows": "AUS Eastern Standard Time",
+    "IANA": "Australia/Sydney"
+  },
+  "CET": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "CET"
+  },
+  "CST6CDT": {
+    "Windows": "Central Standard Time",
+    "IANA": "CST6CDT"
+  },
+  "EET": {
+    "Windows": "E. Europe Standard Time",
+    "IANA": "EET"
+  },
+  "EST": {
+    "Windows": "US Eastern Standard Time",
+    "IANA": "EST"
+  },
+  "EST5EDT": {
+    "Windows": "Eastern Standard Time",
+    "IANA": "EST5EDT"
+  },
+  "Etc/GMT": {
+    "Windows": "UTC",
+    "IANA": "Etc/GMT"
+  },
+  "Etc/GMT+1": {
+    "Windows": "UTC-01",
+    "IANA": "Etc/GMT+1"
+  },
+  "Etc/GMT+10": {
+    "Windows": "UTC-10",
+    "IANA": "Etc/GMT+10"
+  },
+  "Etc/GMT+11": {
+    "Windows": "UTC-11",
+    "IANA": "Etc/GMT+11"
+  },
+  "Etc/GMT+12": {
+    "Windows": "Dateline Standard Time",
+    "IANA": "Etc/GMT+12"
+  },
+  "Etc/GMT+2": {
+    "Windows": "UTC-02",
+    "IANA": "Etc/GMT+2"
+  },
+  "Etc/GMT+3": {
+    "Windows": "UTC-03",
+    "IANA": "Etc/GMT+3"
+  },
+  "Etc/GMT+4": {
+    "Windows": "UTC-04",
+    "IANA": "Etc/GMT+4"
+  },
+  "Etc/GMT+5": {
+    "Windows": "UTC-05",
+    "IANA": "Etc/GMT+5"
+  },
+  "Etc/GMT+6": {
+    "Windows": "UTC-06",
+    "IANA": "Etc/GMT+6"
+  },
+  "Etc/GMT+7": {
+    "Windows": "UTC-07",
+    "IANA": "Etc/GMT+7"
+  },
+  "Etc/GMT+8": {
+    "Windows": "UTC-08",
+    "IANA": "Etc/GMT+8"
+  },
+  "Etc/GMT+9": {
+    "Windows": "UTC-09",
+    "IANA": "Etc/GMT+9"
+  },
+  "Etc/GMT-1": {
+    "Windows": "UTC+01",
+    "IANA": "Etc/GMT-1"
+  },
+  "Etc/GMT-10": {
+    "Windows": "Hawaiian Standard Time",
+    "IANA": "Etc/GMT-10"
+  },
+  "Etc/GMT-11": {
+    "Windows": "UTC+12",
+    "IANA": "Etc/GMT-11"
+  },
+  "Etc/GMT-12": {
+    "Windows": "UTC+12",
+    "IANA": "Etc/GMT-12"
+  },
+  "Etc/GMT-13": {
+    "Windows": "UTC+13",
+    "IANA": "Etc/GMT-13"
+  },
+  "Etc/GMT-14": {
+    "Windows": "Line Islands Standard Time",
+    "IANA": "Etc/GMT-14"
+  },
+  "Etc/GMT-2": {
+    "Windows": "UTC+02",
+    "IANA": "Etc/GMT-2"
+  },
+  "Etc/GMT-3": {
+    "Windows": "UTC+03",
+    "IANA": "Etc/GMT-3"
+  },
+  "Etc/GMT-4": {
+    "Windows": "UTC+04",
+    "IANA": "Etc/GMT-4"
+  },
+  "Etc/GMT-5": {
+    "Windows": "UTC+05",
+    "IANA": "Etc/GMT-5"
+  },
+  "Etc/GMT-6": {
+    "Windows": "UTC+06",
+    "IANA": "Etc/GMT-6"
+  },
+  "Etc/GMT-7": {
+    "Windows": "UTC+07",
+    "IANA": "Etc/GMT-7"
+  },
+  "Etc/GMT-8": {
+    "Windows": "UTC+08",
+    "IANA": "Etc/GMT-8"
+  },
+  "Etc/GMT-9": {
+    "Windows": "UTC+09",
+    "IANA": "Etc/GMT-9"
+  },
+  "Etc/UTC": {
+    "Windows": "UTC",
+    "IANA": "Etc/UTC"
+  },
+  "Europe/Andorra": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "Europe/Andorra"
+  },
+  "Europe/Astrakhan": {
+    "Windows": "Astrakhan Standard Time",
+    "IANA": "Europe/Astrakhan"
+  },
+  "Europe/Athens": {
+    "Windows": "GTB Standard Time",
+    "IANA": "Europe/Athens"
+  },
+  "Europe/Belgrade": {
+    "Windows": "Central Europe Standard Time",
+    "IANA": "Europe/Belgrade"
+  },
+  "Europe/Berlin": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "Europe/Berlin"
+  },
+  "Europe/Brussels": {
+    "Windows": "Romance Standard Time",
+    "IANA": "Europe/Brussels"
+  },
+  "Europe/Bucharest": {
+    "Windows": "GTB Standard Time",
+    "IANA": "Europe/Bucharest"
+  },
+  "Europe/Budapest": {
+    "Windows": "Central Europe Standard Time",
+    "IANA": "Europe/Budapest"
+  },
+  "Europe/Chisinau": {
+    "Windows": "E. Europe Standard Time",
+    "IANA": "Europe/Chisinau"
+  },
+  "Europe/Dublin": {
+    "Windows": "GMT Standard Time",
+    "IANA": "Europe/Dublin"
+  },
+  "Europe/Gibraltar": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "Europe/Gibraltar"
+  },
+  "Europe/Helsinki": {
+    "Windows": "FLE Standard Time",
+    "IANA": "Europe/Helsinki"
+  },
+  "Europe/Istanbul": {
+    "Windows": "Turkey Standard Time",
+    "IANA": "Europe/Istanbul"
+  },
+  "Europe/Kaliningrad": {
+    "Windows": "Kaliningrad Standard Time",
+    "IANA": "Europe/Kaliningrad"
+  },
+  "Europe/Kirov": {
+    "Windows": "Russian Standard Time",
+    "IANA": "Europe/Kirov"
+  },
+  "Europe/Kyiv": {
+    "Windows": "FLE Standard Time",
+    "IANA": "Europe/Kyiv"
+  },
+  "Europe/Lisbon": {
+    "Windows": "GMT Standard Time",
+    "IANA": "Europe/Lisbon"
+  },
+  "Europe/London": {
+    "Windows": "GMT Standard Time",
+    "IANA": "Europe/London"
+  },
+  "Europe/Madrid": {
+    "Windows": "Romance Standard Time",
+    "IANA": "Europe/Madrid"
+  },
+  "Europe/Malta": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "Europe/Malta"
+  },
+  "Europe/Minsk": {
+    "Windows": "Belarus Standard Time",
+    "IANA": "Europe/Minsk"
+  },
+  "Europe/Moscow": {
+    "Windows": "Russian Standard Time",
+    "IANA": "Europe/Moscow"
+  },
+  "Europe/Paris": {
+    "Windows": "Romance Standard Time",
+    "IANA": "Europe/Paris"
+  },
+  "Europe/Prague": {
+    "Windows": "Central Europe Standard Time",
+    "IANA": "Europe/Prague"
+  },
+  "Europe/Riga": {
+    "Windows": "FLE Standard Time",
+    "IANA": "Europe/Riga"
+  },
+  "Europe/Rome": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "Europe/Rome"
+  },
+  "Europe/Samara": {
+    "Windows": "Russia Time Zone 3",
+    "IANA": "Europe/Samara"
+  },
+  "Europe/Saratov": {
+    "Windows": "Saratov Standard Time",
+    "IANA": "Europe/Saratov"
+  },
+  "Europe/Simferopol": {
+    "Windows": "Russian Standard Time",
+    "IANA": "Europe/Simferopol"
+  },
+  "Europe/Sofia": {
+    "Windows": "FLE Standard Time",
+    "IANA": "Europe/Sofia"
+  },
+  "Europe/Tallinn": {
+    "Windows": "FLE Standard Time",
+    "IANA": "Europe/Tallinn"
+  },
+  "Europe/Tirane": {
+    "Windows": "Central Europe Standard Time",
+    "IANA": "Europe/Tirane"
+  },
+  "Europe/Ulyanovsk": {
+    "Windows": "Astrakhan Standard Time",
+    "IANA": "Europe/Ulyanovsk"
+  },
+  "Europe/Vienna": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "Europe/Vienna"
+  },
+  "Europe/Vilnius": {
+    "Windows": "FLE Standard Time",
+    "IANA": "Europe/Vilnius"
+  },
+  "Europe/Volgograd": {
+    "Windows": "Volgograd Standard Time",
+    "IANA": "Europe/Volgograd"
+  },
+  "Europe/Warsaw": {
+    "Windows": "Central European Standard Time",
+    "IANA": "Europe/Warsaw"
+  },
+  "Europe/Zurich": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "Europe/Zurich"
+  },
+  "HST": {
+    "Windows": "Hawaiian Standard Time",
+    "IANA": "HST"
+  },
+  "Indian/Chagos": {
+    "Windows": "Cen. Australia Standard Time",
+    "IANA": "Indian/Chagos"
+  },
+  "Indian/Maldives": {
+    "Windows": "West Asia Standard Time",
+    "IANA": "Indian/Maldives"
+  },
+  "Indian/Mauritius": {
+    "Windows": "Mauritius Standard Time",
+    "IANA": "Indian/Mauritius"
+  },
+  "MET": {
+    "Windows": "Central European Standard Time",
+    "IANA": "MET"
+  },
+  "MST": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "MST"
+  },
+  "MST7MDT": {
+    "Windows": "Mountain Standard Time",
+    "IANA": "MST7MDT"
+  },
+  "PST8PDT": {
+    "Windows": "Pacific Standard Time",
+    "IANA": "PST8PDT"
+  },
+  "Pacific/Apia": {
+    "Windows": "Samoa Standard Time",
+    "IANA": "Pacific/Apia"
+  },
+  "Pacific/Auckland": {
+    "Windows": "New Zealand Standard Time",
+    "IANA": "Pacific/Auckland"
+  },
+  "Pacific/Bougainville": {
+    "Windows": "Bougainville Standard Time",
+    "IANA": "Pacific/Bougainville"
+  },
+  "Pacific/Chatham": {
+    "Windows": "Chatham Islands Standard Time",
+    "IANA": "Pacific/Chatham"
+  },
+  "Pacific/Easter": {
+    "Windows": "Easter Island Standard Time",
+    "IANA": "Pacific/Easter"
+  },
+  "Pacific/Efate": {
+    "Windows": "Central Pacific Standard Time",
+    "IANA": "Pacific/Efate"
+  },
+  "Pacific/Fakaofo": {
+    "Windows": "Tokelau Islands Standard Time",
+    "IANA": "Pacific/Fakaofo"
+  },
+  "Pacific/Fiji": {
+    "Windows": "Fiji Standard Time",
+    "IANA": "Pacific/Fiji"
+  },
+  "Pacific/Galapagos": {
+    "Windows": "Central America Standard Time",
+    "IANA": "Pacific/Galapagos"
+  },
+  "Pacific/Gambier": {
+    "Windows": "UTC-09",
+    "IANA": "Pacific/Gambier"
+  },
+  "Pacific/Guadalcanal": {
+    "Windows": "Central Pacific Standard Time",
+    "IANA": "Pacific/Guadalcanal"
+  },
+  "Pacific/Guam": {
+    "Windows": "West Pacific Standard Time",
+    "IANA": "Pacific/Guam"
+  },
+  "Pacific/Honolulu": {
+    "Windows": "Hawaiian Standard Time",
+    "IANA": "Pacific/Honolulu"
+  },
+  "Pacific/Kanton": {
+    "Windows": "UTC+14",
+    "IANA": "Pacific/Kanton"
+  },
+  "Pacific/Kiritimati": {
+    "Windows": "Line Islands Standard Time",
+    "IANA": "Pacific/Kiritimati"
+  },
+  "Pacific/Kosrae": {
+    "Windows": "Central Pacific Standard Time",
+    "IANA": "Pacific/Kosrae"
+  },
+  "Pacific/Kwajalein": {
+    "Windows": "UTC+12",
+    "IANA": "Pacific/Kwajalein"
+  },
+  "Pacific/Marquesas": {
+    "Windows": "Marquesas Standard Time",
+    "IANA": "Pacific/Marquesas"
+  },
+  "Pacific/Nauru": {
+    "Windows": "UTC+12",
+    "IANA": "Pacific/Nauru"
+  },
+  "Pacific/Niue": {
+    "Windows": "UTC-11",
+    "IANA": "Pacific/Niue"
+  },
+  "Pacific/Norfolk": {
+    "Windows": "Norfolk Standard Time",
+    "IANA": "Pacific/Norfolk"
+  },
+  "Pacific/Noumea": {
+    "Windows": "Central Pacific Standard Time",
+    "IANA": "Pacific/Noumea"
+  },
+  "Pacific/Pago_Pago": {
+    "Windows": "Samoa Standard Time",
+    "IANA": "Pacific/Pago_Pago"
+  },
+  "Pacific/Palau": {
+    "Windows": "Tokelau Islands Standard Time",
+    "IANA": "Pacific/Palau"
+  },
+  "Pacific/Pitcairn": {
+    "Windows": "UTC-08",
+    "IANA": "Pacific/Pitcairn"
+  },
+  "Pacific/Port_Moresby": {
+    "Windows": "West Pacific Standard Time",
+    "IANA": "Pacific/Port_Moresby"
+  },
+  "Pacific/Rarotonga": {
+    "Windows": "Hawaiian Standard Time",
+    "IANA": "Pacific/Rarotonga"
+  },
+  "Pacific/Tahiti": {
+    "Windows": "Hawaiian Standard Time",
+    "IANA": "Pacific/Tahiti"
+  },
+  "Pacific/Tarawa": {
+    "Windows": "UTC+12",
+    "IANA": "Pacific/Tarawa"
+  },
+  "Pacific/Tongatapu": {
+    "Windows": "Tonga Standard Time",
+    "IANA": "Pacific/Tongatapu"
+  },
+  "WET": {
+    "Windows": "W. Europe Standard Time",
+    "IANA": "WET"
+  }
+}
