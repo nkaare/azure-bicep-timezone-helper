@@ -1,4 +1,4 @@
-# Bicep Time Zone Helper
+# Azure Bicep - Time Zone Helper
 An Azure Bicep helper for time zones.
 With the arrival of user-defined functions and user-defined types for Bicep, I was thinking of a quick way to solve a common problem.. Different time zone formats for resources in Azure.
 
